@@ -6,7 +6,7 @@
   "boards": {
     "webdev": {
       "status": "baseline",
-      "snapshot_date": "2026-11-15",
+      "snapshot_date": "2026-11-18",
       "category": "overall",
       "limit": 15,
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest",
@@ -14,161 +14,161 @@
         {
           "model": "Claude Fable 5.2 (xHigh)",
           "rank": 1,
-          "rating": 1825.962194
+          "rating": 1823.827529
         },
         {
           "model": "Claude Opus 5.5 (Max)",
           "rank": 2,
-          "rating": 1815.56733
+          "rating": 1818.403324
+        },
+        {
+          "model": "GPT-6.2 Astra (Max)",
+          "rank": 3,
+          "rating": 1780.611042
         },
         {
           "model": "Claude Sonnet 5.5 (xHigh)",
-          "rank": 3,
-          "rating": 1772.228527
+          "rank": 4,
+          "rating": 1773.04084
         },
         {
           "model": "Gemini 4 Carbon (High)",
-          "rank": 4,
-          "rating": 1768.339839
+          "rank": 5,
+          "rating": 1768.524843
+        },
+        {
+          "model": "Gemini 4 Neon (High)",
+          "rank": 6,
+          "rating": 1763.897473
         },
         {
           "model": "GPT-6 Astra (Max)",
-          "rank": 5,
-          "rating": 1762.883346
+          "rank": 7,
+          "rating": 1762.542537
+        },
+        {
+          "model": "GPT-6.2 Sol (Max)",
+          "rank": 8,
+          "rating": 1756.71077
         },
         {
           "model": "Qwen4-Max (xHigh)",
-          "rank": 6,
-          "rating": 1749.814651
-        },
-        {
-          "model": "Claude Fable 5.1 (Max)",
-          "rank": 7,
-          "rating": 1742.928677
+          "rank": 9,
+          "rating": 1750.018842
         },
         {
           "model": "GPT-6.1 Sol (Max)",
-          "rank": 8,
-          "rating": 1742.335589
+          "rank": 10,
+          "rating": 1744.071343
+        },
+        {
+          "model": "Claude Fable 5.1 (Max)",
+          "rank": 11,
+          "rating": 1741.404558
         },
         {
           "model": "Muse Wonder Full (Max)",
-          "rank": 9,
-          "rating": 1723.85405
+          "rank": 12,
+          "rating": 1723.205045
         },
         {
           "model": "Claude Sonnet 5.5 (High)",
-          "rank": 10,
-          "rating": 1715.8153
+          "rank": 13,
+          "rating": 1716.293916
         },
         {
           "model": "Gemini 4 Hydrogen (High)",
-          "rank": 11,
-          "rating": 1703.904674
+          "rank": 14,
+          "rating": 1702.858184
         },
         {
           "model": "Claude Opus 5 (Max)",
-          "rank": 12,
-          "rating": 1691.083877
-        },
-        {
-          "model": "Kimi K3.1 Pro (Max)",
-          "rank": 13,
-          "rating": 1686.225193
-        },
-        {
-          "model": "GPT-6.1 Terra (Max)",
-          "rank": 14,
-          "rating": 1680.711637
-        },
-        {
-          "model": "Gemini 4 Argon (High)",
           "rank": 15,
-          "rating": 1679.120107
+          "rating": 1691.495063
         }
       ]
     },
     "text": {
       "status": "baseline",
-      "snapshot_date": "2026-11-11",
+      "snapshot_date": "2026-11-18",
       "category": "overall",
       "limit": 15,
-      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control/latest",
       "top": [
         {
           "model": "Gemini 4 Carbon (High)",
           "rank": 1,
-          "rating": 1526.182037
+          "rating": 1525.947925
         },
         {
           "model": "Gemini 4 Argon (High)",
           "rank": 2,
-          "rating": 1521.693253
+          "rating": 1520.561799
+        },
+        {
+          "model": "Gemini 4 Neon (High)",
+          "rank": 3,
+          "rating": 1518.465104
         },
         {
           "model": "Muse Wonder (Max)",
-          "rank": 3,
-          "rating": 1510.856081
+          "rank": 4,
+          "rating": 1510.663488
         },
         {
           "model": "Claude Opus 5.5 (High)",
-          "rank": 4,
-          "rating": 1506.784917
+          "rank": 5,
+          "rating": 1507.024609
         },
         {
           "model": "Claude Fable 5 (High)",
-          "rank": 5,
-          "rating": 1503.979704
+          "rank": 6,
+          "rating": 1504.083927
         },
         {
           "model": "Claude Opus 4.6 (High)",
-          "rank": 6,
-          "rating": 1502.829538
+          "rank": 7,
+          "rating": 1502.821837
         },
         {
           "model": "Claude Fable 5.1 (Max)",
-          "rank": 7,
-          "rating": 1502.32298
+          "rank": 8,
+          "rating": 1502.12975
         },
         {
           "model": "Claude Opus 4.7 (High)",
-          "rank": 8,
-          "rating": 1501.133102
-        },
-        {
-          "model": "Gemini 3.8 Flash (High)",
           "rank": 9,
-          "rating": 1496.664651
+          "rating": 1501.070996
         },
         {
           "model": "Muse Spark 1.3 (Max)",
           "rank": 10,
-          "rating": 1496.501621
+          "rating": 1497.612162
+        },
+        {
+          "model": "Gemini 3.8 Flash (High)",
+          "rank": 11,
+          "rating": 1496.726442
         },
         {
           "model": "Claude Opus 4.6",
-          "rank": 11,
-          "rating": 1496.429632
+          "rank": 12,
+          "rating": 1496.562276
         },
         {
           "model": "Claude Opus 4.7",
-          "rank": 12,
-          "rating": 1493.866168
+          "rank": 13,
+          "rating": 1494.095236
         },
         {
           "model": "Muse Spark 1.2 (xHigh)",
-          "rank": 13,
-          "rating": 1492.89243
+          "rank": 14,
+          "rating": 1492.967188
         },
         {
           "model": "Muse Spark 1.1",
-          "rank": 14,
-          "rating": 1490.871736
-        },
-        {
-          "model": "Gemini 4 Hydrogen (High)",
           "rank": 15,
-          "rating": 1490.427506
+          "rating": 1491.109437
         }
       ]
     },
@@ -186,6 +186,54 @@
       "type": "methodology",
       "summary": "Arena refreshed its Agent Arena Index and introduced six focused indexes. Do not compare the new scale with the older Agent rating.",
       "source": "https://arena.ai/company/leaderboard-changelog"
+    },
+    {
+      "id": "text-2026-11-18-overall-top15",
+      "board": "text",
+      "date": "2026-11-18",
+      "type": "top_15_change",
+      "summary": "Text (style-controlled) overall (Arena dataset). Entered the top 15: Gemini 4 Neon (High) #3. Left the top 15: Gemini 4 Hydrogen (High) (#15→#16).",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control/latest"
+    },
+    {
+      "id": "text-2026-11-18-overall-rank",
+      "board": "text",
+      "date": "2026-11-18",
+      "type": "rank_move",
+      "summary": "Text (style-controlled) overall rank changes within the top 15: Muse Wonder (Max) #3→#4; Claude Opus 5.5 (High) #4→#5; Claude Fable 5 (High) #5→#6; Claude Opus 4.6 (High) #6→#7; Claude Fable 5.1 (Max) #7→#8; Claude Opus 4.7 (High) #8→#9; Gemini 3.8 Flash (High) #9→#11; Claude Opus 4.6 #11→#12; Claude Opus 4.7 #12→#13; Muse Spark 1.2 (xHigh) #13→#14; Muse Spark 1.1 #14→#15.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control/latest"
+    },
+    {
+      "id": "text-2026-11-18-overall-rating",
+      "board": "text",
+      "date": "2026-11-18",
+      "type": "score_change",
+      "summary": "Text (style-controlled) overall rating changes (rounded): Gemini 4 Argon (High) 1522→1521; Muse Spark 1.3 (Max) 1497→1498; Claude Opus 4.6 1496→1497.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control/latest"
+    },
+    {
+      "id": "webdev-2026-11-18-overall-top15",
+      "board": "webdev",
+      "date": "2026-11-18",
+      "type": "top_15_change",
+      "summary": "WebDev overall (Arena dataset). Entered the top 15: GPT-6.2 Astra (Max) #3, Gemini 4 Neon (High) #6, GPT-6.2 Sol (Max) #8. Left the top 15: Kimi K3.1 Pro (Max) (#13→#16), GPT-6.1 Terra (Max) (#14→#17), Gemini 4 Argon (High) (#15→#18).",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
+    },
+    {
+      "id": "webdev-2026-11-18-overall-rank",
+      "board": "webdev",
+      "date": "2026-11-18",
+      "type": "rank_move",
+      "summary": "WebDev overall rank changes within the top 15: Claude Sonnet 5.5 (xHigh) #3→#4; Gemini 4 Carbon (High) #4→#5; GPT-6 Astra (Max) #5→#7; Qwen4-Max (xHigh) #6→#9; GPT-6.1 Sol (Max) #8→#10; Claude Fable 5.1 (Max) #7→#11; Muse Wonder Full (Max) #9→#12; Claude Sonnet 5.5 (High) #10→#13; Gemini 4 Hydrogen (High) #11→#14; Claude Opus 5 (Max) #12→#15.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
+    },
+    {
+      "id": "webdev-2026-11-18-overall-rating",
+      "board": "webdev",
+      "date": "2026-11-18",
+      "type": "score_change",
+      "summary": "WebDev overall rating changes (rounded): Claude Fable 5.2 (xHigh) 1826→1824; Claude Opus 5.5 (Max) 1816→1818; Claude Sonnet 5.5 (xHigh) 1772→1773; Gemini 4 Carbon (High) 1768→1769; GPT-6.1 Sol (Max) 1742→1744; Claude Fable 5.1 (Max) 1743→1741; Muse Wonder Full (Max) 1724→1723; Gemini 4 Hydrogen (High) 1704→1703.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
     }
   ]
 }
