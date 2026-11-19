@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "initialized_at": "2026-11-19",
+  "attribution": "Arena Intelligence, Arena Leaderboard Dataset (CC BY 4.0). Ranks and ratings selected for this feed.",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "boards": {
+    "webdev": {
+      "status": "baseline",
+      "snapshot_date": "2026-11-15",
+      "category": "overall",
+      "limit": 15,
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest",
+      "top": [
+        {
+          "model": "Claude Fable 5.2 (xHigh)",
+          "rank": 1,
+          "rating": 1825.962194
+        },
+        {
+          "model": "Claude Opus 5.5 (Max)",
+          "rank": 2,
+          "rating": 1815.56733
+        },
+        {
+          "model": "Claude Sonnet 5.5 (xHigh)",
+          "rank": 3,
+          "rating": 1772.228527
+        },
+        {
+          "model": "Gemini 4 Carbon (High)",
+          "rank": 4,
+          "rating": 1768.339839
+        },
+        {
+          "model": "GPT-6 Astra (Max)",
+          "rank": 5,
+          "rating": 1762.883346
+        },
+        {
+          "model": "Qwen4-Max (xHigh)",
+          "rank": 6,
+          "rating": 1749.814651
+        },
+        {
+          "model": "Claude Fable 5.1 (Max)",
+          "rank": 7,
+          "rating": 1742.928677
+        },
+        {
+          "model": "GPT-6.1 Sol (Max)",
+          "rank": 8,
+          "rating": 1742.335589
+        },
+        {
+          "model": "Muse Wonder Full (Max)",
+          "rank": 9,
+          "rating": 1723.85405
+        },
+        {
+          "model": "Claude Sonnet 5.5 (High)",
+          "rank": 10,
+          "rating": 1715.8153
+        },
+        {
+          "model": "Gemini 4 Hydrogen (High)",
+          "rank": 11,
+          "rating": 1703.904674
+        },
+        {
+          "model": "Claude Opus 5 (Max)",
+          "rank": 12,
+          "rating": 1691.083877
+        },
+        {
+          "model": "Kimi K3.1 Pro (Max)",
+          "rank": 13,
+          "rating": 1686.225193
+        },
+        {
+          "model": "GPT-6.1 Terra (Max)",
+          "rank": 14,
+          "rating": 1680.711637
+        },
+        {
+          "model": "Gemini 4 Argon (High)",
+          "rank": 15,
+          "rating": 1679.120107
+        }
+      ]
+    },
+    "text": {
+      "status": "baseline_pending",
+      "category": "overall",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control/latest"
+    },
+    "agent": {
+      "status": "changelog_only",
+      "source": "https://arena.ai/company/leaderboard-changelog",
+      "note": "The older dataset metric is not comparable with the live Agent Arena Index."
+    }
+  },
+  "events": [
+    {
+      "id": "agent-2026-11-18-index-refresh",
+      "board": "agent",
+      "date": "2026-11-18",
+      "type": "methodology",
+      "summary": "Arena refreshed its Agent Arena Index and introduced six focused indexes. Do not compare the new scale with the older Agent rating.",
+      "source": "https://arena.ai/company/leaderboard-changelog"
+    }
+  ]
+}
