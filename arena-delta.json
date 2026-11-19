@@ -89,9 +89,88 @@
       ]
     },
     "text": {
-      "status": "baseline_pending",
+      "status": "baseline",
+      "snapshot_date": "2026-11-11",
       "category": "overall",
-      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control/latest"
+      "limit": 15,
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control",
+      "top": [
+        {
+          "model": "Gemini 4 Carbon (High)",
+          "rank": 1,
+          "rating": 1526.182037
+        },
+        {
+          "model": "Gemini 4 Argon (High)",
+          "rank": 2,
+          "rating": 1521.693253
+        },
+        {
+          "model": "Muse Wonder (Max)",
+          "rank": 3,
+          "rating": 1510.856081
+        },
+        {
+          "model": "Claude Opus 5.5 (High)",
+          "rank": 4,
+          "rating": 1506.784917
+        },
+        {
+          "model": "Claude Fable 5 (High)",
+          "rank": 5,
+          "rating": 1503.979704
+        },
+        {
+          "model": "Claude Opus 4.6 (High)",
+          "rank": 6,
+          "rating": 1502.829538
+        },
+        {
+          "model": "Claude Fable 5.1 (Max)",
+          "rank": 7,
+          "rating": 1502.32298
+        },
+        {
+          "model": "Claude Opus 4.7 (High)",
+          "rank": 8,
+          "rating": 1501.133102
+        },
+        {
+          "model": "Gemini 3.8 Flash (High)",
+          "rank": 9,
+          "rating": 1496.664651
+        },
+        {
+          "model": "Muse Spark 1.3 (Max)",
+          "rank": 10,
+          "rating": 1496.501621
+        },
+        {
+          "model": "Claude Opus 4.6",
+          "rank": 11,
+          "rating": 1496.429632
+        },
+        {
+          "model": "Claude Opus 4.7",
+          "rank": 12,
+          "rating": 1493.866168
+        },
+        {
+          "model": "Muse Spark 1.2 (xHigh)",
+          "rank": 13,
+          "rating": 1492.89243
+        },
+        {
+          "model": "Muse Spark 1.1",
+          "rank": 14,
+          "rating": 1490.871736
+        },
+        {
+          "model": "Gemini 4 Hydrogen (High)",
+          "rank": 15,
+          "rating": 1490.427506
+        }
+      ]
     },
     "agent": {
       "status": "changelog_only",
