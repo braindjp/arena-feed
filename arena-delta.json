@@ -173,9 +173,92 @@
       ]
     },
     "agent": {
-      "status": "changelog_only",
-      "source": "https://arena.ai/company/leaderboard-changelog",
-      "note": "The older dataset metric is not comparable with the live Agent Arena Index."
+      "status": "baseline",
+      "snapshot_date": "2026-11-18",
+      "category": "overall",
+      "limit": 15,
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset",
+      "dataset_subset": "agent_capability",
+      "metric": "index_score",
+      "methodology": "anchored_agent_arena_index",
+      "changelog_source": "https://arena.ai/company/leaderboard-changelog",
+      "top": [
+        {
+          "model": "Claude Fable 5.2 (Max)",
+          "rank": 1,
+          "index_score": 1447.853989
+        },
+        {
+          "model": "Claude Opus 5.5 (Max)",
+          "rank": 2,
+          "index_score": 1335.506624
+        },
+        {
+          "model": "Gemini 4 Neon (High)",
+          "rank": 3,
+          "index_score": 1332.695076
+        },
+        {
+          "model": "Gemini 4 Carbon (High)",
+          "rank": 4,
+          "index_score": 1303.427665
+        },
+        {
+          "model": "Claude Sonnet 5.5 (Max)",
+          "rank": 5,
+          "index_score": 1296.051022
+        },
+        {
+          "model": "GPT-6.2 Astra (Max)",
+          "rank": 6,
+          "index_score": 1290.996428
+        },
+        {
+          "model": "GPT-6 Astra (Max)",
+          "rank": 7,
+          "index_score": 1282.484614
+        },
+        {
+          "model": "Claude Opus 5.5 (High)",
+          "rank": 8,
+          "index_score": 1272.957513
+        },
+        {
+          "model": "Claude Fable 5.1 (Max)",
+          "rank": 9,
+          "index_score": 1271.602917
+        },
+        {
+          "model": "Gemini 4 Hydrogen (High)",
+          "rank": 10,
+          "index_score": 1270.564811
+        },
+        {
+          "model": "GPT-6.2 Sol (Max)",
+          "rank": 11,
+          "index_score": 1240.759965
+        },
+        {
+          "model": "GPT-6.1 Sol (Max)",
+          "rank": 12,
+          "index_score": 1240.707691
+        },
+        {
+          "model": "GPT-6.1 Terra (Max)",
+          "rank": 13,
+          "index_score": 1230.125466
+        },
+        {
+          "model": "Gemini 4 Argon (High)",
+          "rank": 14,
+          "index_score": 1229.04795
+        },
+        {
+          "model": "Muse Wonder Full (Max)",
+          "rank": 15,
+          "index_score": 1200.843436
+        }
+      ]
     }
   },
   "events": [
