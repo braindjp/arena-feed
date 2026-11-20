@@ -234,6 +234,14 @@
       "type": "score_change",
       "summary": "WebDev overall rating changes (rounded): Claude Fable 5.2 (xHigh) 1826→1824; Claude Opus 5.5 (Max) 1816→1818; Claude Sonnet 5.5 (xHigh) 1772→1773; Gemini 4 Carbon (High) 1768→1769; GPT-6.1 Sol (Max) 1742→1744; Claude Fable 5.1 (Max) 1743→1741; Muse Wonder Full (Max) 1724→1723; Gemini 4 Hydrogen (High) 1704→1703.",
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
+    },
+    {
+      "id": "agent-2026-11-18-gpt-6-2-astra-sol-max",
+      "board": "agent",
+      "date": "2026-11-18",
+      "type": "new_model",
+      "summary": "Arena added GPT-6.2 Astra (Max) and GPT-6.2 Sol (Max) to the overall Agent Arena Index.",
+      "source": "https://arena.ai/company/leaderboard-changelog"
     }
   ]
 }
