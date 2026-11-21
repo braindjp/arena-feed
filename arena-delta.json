@@ -6,7 +6,7 @@
   "boards": {
     "webdev": {
       "status": "baseline",
-      "snapshot_date": "2026-11-19",
+      "snapshot_date": "2026-11-20",
       "category": "overall",
       "limit": 15,
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest",
@@ -14,77 +14,77 @@
         {
           "model": "Claude Fable 5.2 (xHigh)",
           "rank": 1,
-          "rating": 1823.415214
+          "rating": 1823.635908
         },
         {
           "model": "Claude Opus 5.5 (Max)",
           "rank": 2,
-          "rating": 1818.348139
+          "rating": 1819.04395
         },
         {
           "model": "Claude Sonnet 5.5 (xHigh)",
           "rank": 3,
-          "rating": 1771.309457
+          "rating": 1771.996458
         },
         {
           "model": "Gemini 4 Carbon (High)",
           "rank": 4,
-          "rating": 1768.77033
-        },
-        {
-          "model": "Gemini 4 Neon (High)",
-          "rank": 5,
-          "rating": 1763.150344
-        },
-        {
-          "model": "GPT-6 Astra (Max)",
-          "rank": 6,
-          "rating": 1763.076436
+          "rating": 1768.73373
         },
         {
           "model": "GPT-6.2 Astra (Max)",
+          "rank": 5,
+          "rating": 1766.184464
+        },
+        {
+          "model": "Gemini 4 Neon (High)",
+          "rank": 6,
+          "rating": 1764.886599
+        },
+        {
+          "model": "GPT-6 Astra (Max)",
           "rank": 7,
-          "rating": 1759.27905
+          "rating": 1763.961176
         },
         {
           "model": "GPT-6.2 Sol (Max)",
           "rank": 8,
-          "rating": 1754.512882
+          "rating": 1754.042715
         },
         {
           "model": "Qwen4-Max (xHigh)",
           "rank": 9,
-          "rating": 1749.735728
+          "rating": 1750.903874
         },
         {
           "model": "GPT-6.1 Sol (Max)",
           "rank": 10,
-          "rating": 1743.655942
+          "rating": 1743.359312
         },
         {
           "model": "Claude Fable 5.1 (Max)",
           "rank": 11,
-          "rating": 1741.251415
+          "rating": 1741.875984
         },
         {
           "model": "Muse Wonder Full (Max)",
           "rank": 12,
-          "rating": 1723.175865
+          "rating": 1722.630204
         },
         {
           "model": "Claude Sonnet 5.5 (High)",
           "rank": 13,
-          "rating": 1716.262218
+          "rating": 1715.493185
         },
         {
           "model": "Gemini 4 Hydrogen (High)",
           "rank": 14,
-          "rating": 1701.213858
+          "rating": 1700.626538
         },
         {
           "model": "Claude Opus 5 (Max)",
           "rank": 15,
-          "rating": 1691.606659
+          "rating": 1691.570549
         }
       ]
     },
@@ -365,6 +365,22 @@
       "type": "score_change",
       "summary": "Text (style-controlled) overall rating changes (rounded): Gemini 4 Carbon (High) 1526→1527; Gemini 4 Argon (High) 1521→1520; Gemini 4 Neon (High) 1518→1513; Claude Opus 5.5 (High) 1507→1506; Claude Fable 5.1 (Max) 1502→1503; Claude Opus 4.6 1497→1496.",
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/text_style_control"
+    },
+    {
+      "id": "webdev-2026-11-20-overall-rank",
+      "board": "webdev",
+      "date": "2026-11-20",
+      "type": "rank_move",
+      "summary": "WebDev overall rank changes within the top 15: GPT-6.2 Astra (Max) #7→#5; Gemini 4 Neon (High) #5→#6; GPT-6 Astra (Max) #6→#7.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
+    },
+    {
+      "id": "webdev-2026-11-20-overall-rating",
+      "board": "webdev",
+      "date": "2026-11-20",
+      "type": "score_change",
+      "summary": "WebDev overall rating changes (rounded): Claude Fable 5.2 (xHigh) 1823→1824; Claude Opus 5.5 (Max) 1818→1819; Claude Sonnet 5.5 (xHigh) 1771→1772; GPT-6.2 Astra (Max) 1759→1766; Gemini 4 Neon (High) 1763→1765; GPT-6 Astra (Max) 1763→1764; GPT-6.2 Sol (Max) 1755→1754; Qwen4-Max (xHigh) 1750→1751; GPT-6.1 Sol (Max) 1744→1743; Claude Fable 5.1 (Max) 1741→1742; Claude Sonnet 5.5 (High) 1716→1715.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
     }
   ]
 }
