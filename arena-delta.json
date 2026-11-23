@@ -437,6 +437,14 @@
       "type": "score_change",
       "summary": "Agent Arena Index overall score changes (rounded): Claude Fable 5.2 (Max) 1448→1449; Claude Opus 5.5 (Max) 1336→1342; Gemini 4 Neon (High) 1333→1331; Gemini 4 Carbon (High) 1303→1304; Claude Sonnet 5.5 (Max) 1296→1292; GPT-6 Astra (Max) 1282→1284; Claude Opus 5.5 (High) 1273→1275; GPT-6.2 Astra (Max) 1291→1275; Gemini 4 Hydrogen (High) 1271→1272; Claude Fable 5.1 (Max) 1272→1265; GPT-6.1 Sol (Max) 1241→1237.",
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset"
+    },
+    {
+      "id": "agent-2026-11-22-inkling-2-mini",
+      "board": "agent",
+      "date": "2026-11-22",
+      "type": "new_model",
+      "summary": "Inkling 2 Mini joined the overall Agent Arena Index at #57 with an index score of 996, outside the top 15.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer"
     }
   ]
 }
