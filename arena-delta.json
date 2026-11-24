@@ -6,7 +6,7 @@
   "boards": {
     "webdev": {
       "status": "baseline",
-      "snapshot_date": "2026-11-22",
+      "snapshot_date": "2026-11-23",
       "category": "overall",
       "limit": 15,
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest",
@@ -14,77 +14,77 @@
         {
           "model": "Claude Fable 5.2 (xHigh)",
           "rank": 1,
-          "rating": 1822.133454
+          "rating": 1821.65433
         },
         {
           "model": "Claude Opus 5.5 (Max)",
           "rank": 2,
-          "rating": 1820.271779
+          "rating": 1820.352134
         },
         {
           "model": "Claude Sonnet 5.5 (xHigh)",
           "rank": 3,
-          "rating": 1772.356702
+          "rating": 1772.644766
         },
         {
           "model": "Gemini 4 Carbon (High)",
           "rank": 4,
-          "rating": 1768.897001
+          "rating": 1768.977271
         },
         {
-          "model": "Gemini 4 Neon (High)",
+          "model": "Gemini 4 Neon (xHigh)",
           "rank": 5,
-          "rating": 1765.769335
+          "rating": 1765.27387
         },
         {
           "model": "GPT-6 Astra (Max)",
           "rank": 6,
-          "rating": 1764.336572
+          "rating": 1763.644715
         },
         {
           "model": "GPT-6.2 Astra (Max)",
           "rank": 7,
-          "rating": 1759.445907
+          "rating": 1760.672767
         },
         {
           "model": "GPT-6.2 Sol (Max)",
           "rank": 8,
-          "rating": 1755.067819
+          "rating": 1754.823286
         },
         {
           "model": "Qwen4-Max (xHigh)",
           "rank": 9,
-          "rating": 1751.971137
+          "rating": 1752.14421
         },
         {
           "model": "GPT-6.1 Sol (Max)",
           "rank": 10,
-          "rating": 1744.440261
+          "rating": 1744.730552
         },
         {
           "model": "Claude Fable 5.1 (Max)",
           "rank": 11,
-          "rating": 1742.100282
+          "rating": 1741.811056
         },
         {
           "model": "Muse Wonder Full (Max)",
           "rank": 12,
-          "rating": 1723.078882
+          "rating": 1723.512327
         },
         {
           "model": "Claude Sonnet 5.5 (High)",
           "rank": 13,
-          "rating": 1715.923833
+          "rating": 1715.418122
         },
         {
-          "model": "Gemini 4 Hydrogen (High)",
+          "model": "Gemini 4 Hydrogen (xHigh)",
           "rank": 14,
-          "rating": 1701.109169
+          "rating": 1701.419619
         },
         {
           "model": "Claude Opus 5 (Max)",
           "rank": 15,
-          "rating": 1691.650462
+          "rating": 1691.577935
         }
       ]
     },
@@ -445,6 +445,14 @@
       "type": "new_model",
       "summary": "Inkling 2 Mini joined the overall Agent Arena Index at #57 with an index score of 996, outside the top 15.",
       "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer"
+    },
+    {
+      "id": "webdev-2026-11-23-overall-rating",
+      "board": "webdev",
+      "date": "2026-11-23",
+      "type": "score_change",
+      "summary": "WebDev overall rating changes (rounded): Claude Sonnet 5.5 (xHigh) 1772→1773; Gemini 4 Neon (xHigh) 1766→1765; GPT-6.2 Astra (Max) 1759→1761; GPT-6.1 Sol (Max) 1744→1745; Muse Wonder Full (Max) 1723→1724; Claude Sonnet 5.5 (High) 1716→1715. The #5 Neon and #14 Hydrogen entries are now labeled xHigh instead of High.",
+      "source": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset/viewer/webdev/latest"
     }
   ]
 }
